@@ -6,7 +6,7 @@ The official repository of the Data Mining course held at INSA Lyon for the IST 
 | What                  | When              | How | Materials |
 |-----------------------|-------------------|-----|-----------|
 | Introduction          | 04/11/2025 16h00  | TD  | [Slides](slides/intro1.pdf) |
-| Data Exploration      | 13/11/2025 10h00  | TP  | TBD |
+| Data Exploration      | 13/11/2025 10h00  | TP  | [Notebook](exercises/data_exploration.ipynb) |
 | Data Pre-Processing   | 18/11/2025 16h00  | TD  | TBD |
 | Data Pre-processing   | 20/11/2025 10h00  | TP  | TBD |
 | Frequent Patterns     | 25/11/2025 16h00  | TD  | TBD |
@@ -20,6 +20,3 @@ _Always check the official calendar for eventual schedule changement_
 
 ## Additional Materials
 **Text Book** - Mohammed J. Zaki, Wagner Meira, Jr., Data Mining and Machine Learning: Fundamental Concepts and Algorithms, 2nd Edition, Cambridge University Press, March 2020. ISBN: 978-1108473989 [Online Book](https://dataminingbook.info/book_html)
-
-
-
