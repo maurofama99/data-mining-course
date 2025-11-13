@@ -6,7 +6,7 @@ The official repository of the Data Mining course held at INSA Lyon for the IST 
 | What                  | When              | How | Materials |
 |-----------------------|-------------------|-----|-----------|
 | Introduction          | 04/11/2025 16h00  | TD  | [Slides](slides/intro1.pdf) |
-| Data Exploration      | 13/11/2025 10h00  | TP  | [Notebook](exercises/data_exploration.ipynb) |
+| Data Exploration      | 13/11/2025 10h00  | TP  | [Notebook](exercises/data_exploration.ipynb) [Solution](exercises/solutions/data_exploration.ipynb) |
 | Data Pre-Processing   | 18/11/2025 16h00  | TD  | TBD |
 | Data Pre-processing   | 20/11/2025 10h00  | TP  | TBD |
 | Frequent Patterns     | 25/11/2025 16h00  | TD  | TBD |
