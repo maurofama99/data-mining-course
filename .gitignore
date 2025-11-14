@@ -1,0 +1,99 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Visual Studio (IDE) - keep IDE-specific caches and build outputs out of git
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dbmdl
+*.opendb
+*.VC.db
+# Build folders
+[Bb]in/
+[Oo]bj/
+[Tt]est[Rr]esult*/ 
+build/
+*.ilk
+*.pdb
+*.ipch
+
+# Visual Studio Code settings
+.vscode/
+
+# Python / Jupyter
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+pipenv/
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*$py.class
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+# Testing cache
+.pytest_cache/
+# Mypy
+.mypy_cache/
+# Jupyter
+.ipynb_checkpoints/
+# Jupyter runtime and temp
+jupyter_runtime/
+nboutput/     # optional: for notebook conversion outputs if used
+
+# Common data / DB / large files (adjust to your repo needs)
+*.sqlite3
+*.db
+*.h5
+*.hdf5
+*.parquet
+*.csv
+*.tsv
+*.dat
+# Consider adding dataset/ or data/ if you keep large datasets locally:
+# /data/
+# /datasets/
+
+# Logs, temp files
+*.log
+logs/
+*.out
+*.tmp
+tmp/
+
+# Secrets and environment files
+.env
+.env.*
+secrets.json
+credentials.json
+*.key
+*.pem
+
+# Misc Windows / system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editors and tools
+*.swp
+*~ 
+.project
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Git LFS pointer files are fine, but large raw data should use Git LFS instead of tracking here.
