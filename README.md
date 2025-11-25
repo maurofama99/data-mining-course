@@ -8,8 +8,8 @@ The official repository of the Data Mining course held at INSA Lyon for the IST 
 | Introduction          | 04/11/2025 16h00  | TD  | [Slides](slides/intro1.pdf) |
 | Data Exploration      | 13/11/2025 10h00  | TP  | [Notebook](exercises/data_exploration.ipynb) [Solution](exercises/solutions/data_exploration.ipynb) |
 | Data Pre-Processing   | 18/11/2025 16h00  | TD  | [Slides](slides/data_preprocessing.pdf) |
-| Data Pre-Processing   | 20/11/2025 10h00  | TP  | [Notebook](exercises/data_preprocessing.ipynb) |
-| Classification        | 25/11/2025 16h00  | TD  | TBD |
+| Data Pre-Processing   | 20/11/2025 10h00  | TP  | [Notebook](exercises/data_preprocessing.ipynb) [Solution](exercises/solutions/data_preprocessing.ipynb)|
+| Classification        | 25/11/2025 16h00  | TD  | [Slides](slides/classification.pdf) |
 | Classification        | 27/11/2025 10h00  | TP  | TBD |
 | Clustering            | 02/12/2025 16h00  | TD  | TBD |
 | Clustering            | 04/12/2025 10h00  | TP  | TBD |

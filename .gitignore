@@ -61,7 +61,6 @@ nboutput/     # optional: for notebook conversion outputs if used
 *.h5
 *.hdf5
 *.parquet
-*.csv
 *.tsv
 *.dat
 # Consider adding dataset/ or data/ if you keep large datasets locally:
