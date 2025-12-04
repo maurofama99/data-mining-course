@@ -32,5 +32,6 @@ The required knowledge for the theoretical questions can be fully extracted from
 
 In the [Exercises Guideline](exercises_guideline.pdf) you will find examples of exercises that could be present in the exam.
 
-## Additional Materials
-**Text Book** - Mohammed J. Zaki, Wagner Meira, Jr., Data Mining and Machine Learning: Fundamental Concepts and Algorithms, 2nd Edition, Cambridge University Press, March 2020. ISBN: 978-1108473989 [Online Book](https://dataminingbook.info/book_html)
+## References
+* [Tan, Pang-Ning, Michael Steinbach, and Vipin Kumar. Introduction to data mining. Pearson Education India, 2016](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php)
+* [Mohammed J. Zaki, Wagner Meira, Jr., Data Mining and Machine Learning: Fundamental Concepts and Algorithms, 2nd Edition, Cambridge University Press, March 2020. ISBN: 978-1108473989](https://dataminingbook.info/book_html)
