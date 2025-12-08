@@ -13,7 +13,7 @@ The official repository of the Data Mining course held at INSA Lyon for the IST 
 | Clustering            | 02/12/2025 16h00  | TD  | [Slides](slides/clustering.pdf) |
 | Clustering            | 04/12/2025 10h00  | TP  | [Notebook](exercises/clustering.ipynb) [Solution](exercises/solutions/clustering.ipynb) |
 | Everything            | 08/12/2025 08h30  | Tutoring | [Exercises](exercises_guideline.pdf) |
-| Everything            | 09/12/2025 16h00  | Exam | TBD |
+| Everything            | 09/12/2025 16h30  | Exam | TBD |
 
 _Always check the official calendar for eventual schedule changement_
 
