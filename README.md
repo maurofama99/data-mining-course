@@ -1,28 +1,28 @@
-# Data Mining (IST - DBM2 - 3 ECTS)
+# Data Mining (IST - DBM2)
 The official repository of the Data Mining course held at INSA Lyon for the IST track. Here you can find all the slides, exercises and additional materials discussed in class.
 
 ## Schedule
 | What                  | When              | How | Materials |
 |-----------------------|-------------------|-----|-----------|
-| Introduction          | 04/11/2025 16h00  | TD  | [Slides](slides/intro1.pdf) |
-| Data Exploration      | 13/11/2025 10h00  | TP  | [Notebook](exercises/data_exploration.ipynb) [Solution](exercises/solutions/data_exploration.ipynb) |
-| Data Pre-Processing   | 18/11/2025 16h00  | TD  | [Slides](slides/data_preprocessing.pdf) |
-| Data Pre-Processing   | 20/11/2025 10h00  | TP  | [Notebook](exercises/data_preprocessing.ipynb) [Solution](exercises/solutions/data_preprocessing.ipynb)|
-| Classification        | 25/11/2025 16h00  | TD  | [Slides](slides/classification.pdf) |
-| Classification        | 27/11/2025 10h00  | TP  | [Notebook](exercises/classification.ipynb) [Solution](exercises/solutions/classification.ipynb) |
-| Clustering            | 02/12/2025 16h00  | TD  | [Slides](slides/clustering.pdf) |
-| Clustering            | 04/12/2025 10h00  | TP  | [Notebook](exercises/clustering.ipynb) [Solution](exercises/solutions/clustering.ipynb) |
-| Everything            | 08/12/2025 08h30  | Tutoring | [Exercises](exercises_guideline.pdf) |
-| Everything            | 09/12/2025 16h30  | Exam | TBD |
+| Introduction          | 03/11/2026 16h00  | TD  | [Slides](slides/intro1.pdf) |
+| Data Exploration      | 12/11/2026 10h00  | TP  | [Notebook](exercises/data_exploration.ipynb) [Solution](exercises/solutions/data_exploration.ipynb) |
+| Data Pre-Processing   | 17/11/2026 16h00  | TD  | [Slides](slides/data_preprocessing.pdf) |
+| Data Pre-Processing   | 19/11/2026 10h00  | TP  | [Notebook](exercises/data_preprocessing.ipynb) [Solution](exercises/solutions/data_preprocessing.ipynb)|
+| Classification        | 24/11/2026 16h00  | TD  | [Slides](slides/classification.pdf) |
+| Classification        | 26/11/2026 10h00  | TP  | [Notebook](exercises/classification.ipynb) [Solution](exercises/solutions/classification.ipynb) |
+| Clustering            | 01/12/2026 16h00  | TD  | [Slides](slides/clustering.pdf) |
+| Clustering            | 03/12/2026 10h00  | TP  | [Notebook](exercises/clustering.ipynb) [Solution](exercises/solutions/clustering.ipynb) |
+| Everything            | 08/12/2026 08h30  | Tutoring | [Exercises](exercises_guideline.pdf) |
+| Everything            | 10/12/2026 10h00  | Exam | TBD |
 
 _Always check the official calendar for eventual schedule changement_
 
 ## Exam Guidelines
 
 * The exam consists in a mix of open questions, multiple-choice questions and exercises.
-* The exam will be fully on paper, no laptop are needed and neither code writing. Since numerical exercises will be present, don't forget a calculator.
+* The exam will be on paper, no laptop are needed and neither code writing. Since numerical exercises will be present, don't forget a calculator.
 * Personal notes are **not** allowed to be consulted during the exam.
-* In the tutoring session before the exam (08/12/2025 08h00), we will see examples of theoretical questions and we will do together the exercises of the [Exercises Guideline](exercises_guideline.pdf).
+* In the tutoring session before the exam (08/12/2026 08h30), we will see examples of theoretical questions and we will do together the exercises of the [Exercises Guideline](exercises_guideline.pdf).
 
 ### Theory
 
