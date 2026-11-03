@@ -4,7 +4,7 @@ The official repository of the Data Mining course held at INSA Lyon for the IST 
 ## Schedule
 | What                  | When              | How | Materials |
 |-----------------------|-------------------|-----|-----------|
-| Introduction          | 03/11/2026 16h00  | TD  | [Slides](slides/intro1.pdf) |
+| Introduction          | 06/11/2026 08h30  | TD  | [Slides](slides/intro1.pdf) |
 | Data Exploration      | 12/11/2026 10h00  | TP  | [Notebook](exercises/data_exploration.ipynb) [Solution](exercises/solutions/data_exploration.ipynb) |
 | Data Pre-Processing   | 17/11/2026 16h00  | TD  | [Slides](slides/data_preprocessing.pdf) |
 | Data Pre-Processing   | 19/11/2026 10h00  | TP  | [Notebook](exercises/data_preprocessing.ipynb) [Solution](exercises/solutions/data_preprocessing.ipynb)|
